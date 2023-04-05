@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\abaixo_da_media\abaixo_da_media\bin\Debug\abaixo_da_media.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\abaixo_da_media\abaixo_da_media\bin\Debug\abaixo_da_media.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\abaixo_da_media\abaixo_da_media\bin\Debug\abaixo_da_media.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\abaixo_da_media\abaixo_da_media\obj\Debug\abaixo_da_media.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\abaixo_da_media\abaixo_da_media\obj\Debug\abaixo_da_media.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\abaixo_da_media\abaixo_da_media\obj\Debug\abaixo_da_media.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\abaixo_da_media\abaixo_da_media\obj\Debug\abaixo_da_media.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\abaixo_da_media\abaixo_da_media\obj\Debug\abaixo_da_media.pdb

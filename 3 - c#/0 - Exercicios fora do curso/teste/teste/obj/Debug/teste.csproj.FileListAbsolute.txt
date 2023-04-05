@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\teste\teste\bin\Debug\teste.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\teste\teste\bin\Debug\teste.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\teste\teste\bin\Debug\teste.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\teste\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\teste\teste\obj\Debug\teste.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\teste\teste\obj\Debug\teste.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\teste\teste\obj\Debug\teste.pdb

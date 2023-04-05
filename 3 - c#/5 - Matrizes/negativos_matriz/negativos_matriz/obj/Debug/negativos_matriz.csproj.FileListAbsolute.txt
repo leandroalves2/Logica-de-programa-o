@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\negativos_matriz\negativos_matriz\bin\Debug\negativos_matriz.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\negativos_matriz\negativos_matriz\bin\Debug\negativos_matriz.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\negativos_matriz\negativos_matriz\bin\Debug\negativos_matriz.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\negativos_matriz\negativos_matriz\obj\Debug\negativos_matriz.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\negativos_matriz\negativos_matriz\obj\Debug\negativos_matriz.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\negativos_matriz\negativos_matriz\obj\Debug\negativos_matriz.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\negativos_matriz\negativos_matriz\obj\Debug\negativos_matriz.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\negativos_matriz\negativos_matriz\obj\Debug\negativos_matriz.pdb

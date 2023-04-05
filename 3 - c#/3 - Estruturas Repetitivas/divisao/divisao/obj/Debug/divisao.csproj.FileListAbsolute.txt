@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\divisao\divisao\bin\Debug\divisao.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\divisao\divisao\bin\Debug\divisao.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\divisao\divisao\bin\Debug\divisao.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\divisao\divisao\obj\Debug\divisao.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\divisao\divisao\obj\Debug\divisao.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\divisao\divisao\obj\Debug\divisao.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\divisao\divisao\obj\Debug\divisao.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\divisao\divisao\obj\Debug\divisao.pdb

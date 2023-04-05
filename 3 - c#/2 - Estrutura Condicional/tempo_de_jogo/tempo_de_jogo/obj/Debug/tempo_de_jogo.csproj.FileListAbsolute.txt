@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\tempo_de_jogo\tempo_de_jogo\bin\Debug\tempo_de_jogo.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\tempo_de_jogo\tempo_de_jogo\bin\Debug\tempo_de_jogo.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\tempo_de_jogo\tempo_de_jogo\bin\Debug\tempo_de_jogo.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\tempo_de_jogo\tempo_de_jogo\obj\Debug\tempo_de_jogo.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\tempo_de_jogo\tempo_de_jogo\obj\Debug\tempo_de_jogo.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\tempo_de_jogo\tempo_de_jogo\obj\Debug\tempo_de_jogo.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\tempo_de_jogo\tempo_de_jogo\obj\Debug\tempo_de_jogo.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\tempo_de_jogo\tempo_de_jogo\obj\Debug\tempo_de_jogo.pdb

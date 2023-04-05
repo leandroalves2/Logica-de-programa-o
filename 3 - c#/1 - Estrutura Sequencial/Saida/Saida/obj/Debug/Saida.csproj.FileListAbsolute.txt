@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\Saida\Saida\bin\Debug\Saida.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\Saida\Saida\bin\Debug\Saida.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\Saida\Saida\bin\Debug\Saida.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\Saida\Saida\obj\Debug\Saida.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\Saida\Saida\obj\Debug\Saida.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\Saida\Saida\obj\Debug\Saida.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\Saida\Saida\obj\Debug\Saida.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\Saida\Saida\obj\Debug\Saida.pdb

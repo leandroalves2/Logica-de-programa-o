@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_linhas\soma_linhas\bin\Debug\soma_linhas.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_linhas\soma_linhas\bin\Debug\soma_linhas.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_linhas\soma_linhas\bin\Debug\soma_linhas.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_linhas\soma_linhas\obj\Debug\soma_linhas.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_linhas\soma_linhas\obj\Debug\soma_linhas.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_linhas\soma_linhas\obj\Debug\soma_linhas.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_linhas\soma_linhas\obj\Debug\soma_linhas.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_linhas\soma_linhas\obj\Debug\soma_linhas.pdb

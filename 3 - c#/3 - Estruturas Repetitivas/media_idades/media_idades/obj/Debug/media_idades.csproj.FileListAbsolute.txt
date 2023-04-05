@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_idades\media_idades\obj\Debug\media_idades.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_idades\media_idades\obj\Debug\media_idades.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_idades\media_idades\obj\Debug\media_idades.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_idades\media_idades\bin\Debug\media_idades.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_idades\media_idades\bin\Debug\media_idades.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_idades\media_idades\bin\Debug\media_idades.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_idades\media_idades\obj\Debug\media_idades.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_idades\media_idades\obj\Debug\media_idades.pdb

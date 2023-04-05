@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\circulo\circulo\bin\Debug\circulo.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\circulo\circulo\bin\Debug\circulo.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\circulo\circulo\bin\Debug\circulo.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\circulo\circulo\obj\Debug\circulo.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\circulo\circulo\obj\Debug\circulo.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\circulo\circulo\obj\Debug\circulo.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\circulo\circulo\obj\Debug\circulo.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\circulo\circulo\obj\Debug\circulo.pdb

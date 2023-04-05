@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\alturas\alturas\obj\Debug\alturas.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\alturas\alturas\obj\Debug\alturas.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\alturas\alturas\obj\Debug\alturas.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\alturas\alturas\bin\Debug\alturas.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\alturas\alturas\bin\Debug\alturas.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\alturas\alturas\bin\Debug\alturas.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\alturas\alturas\obj\Debug\alturas.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\alturas\alturas\obj\Debug\alturas.pdb

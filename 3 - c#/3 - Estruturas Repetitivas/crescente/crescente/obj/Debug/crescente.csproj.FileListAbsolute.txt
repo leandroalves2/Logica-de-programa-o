@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\crescente\crescente\bin\Debug\crescente.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\crescente\crescente\bin\Debug\crescente.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\crescente\crescente\bin\Debug\crescente.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\crescente\crescente\obj\Debug\crescente.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\crescente\crescente\obj\Debug\crescente.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\crescente\crescente\obj\Debug\crescente.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\crescente\crescente\obj\Debug\crescente.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\crescente\crescente\obj\Debug\crescente.pdb

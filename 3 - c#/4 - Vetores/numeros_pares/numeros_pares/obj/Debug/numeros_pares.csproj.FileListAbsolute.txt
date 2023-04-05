@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\numeros_pares\numeros_pares\bin\Debug\numeros_pares.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\numeros_pares\numeros_pares\bin\Debug\numeros_pares.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\numeros_pares\numeros_pares\bin\Debug\numeros_pares.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\numeros_pares\numeros_pares\obj\Debug\numeros_pares.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\numeros_pares\numeros_pares\obj\Debug\numeros_pares.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\numeros_pares\numeros_pares\obj\Debug\numeros_pares.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\numeros_pares\numeros_pares\obj\Debug\numeros_pares.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\numeros_pares\numeros_pares\obj\Debug\numeros_pares.pdb

@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\pagamento\pagamento\bin\Debug\pagamento.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\pagamento\pagamento\bin\Debug\pagamento.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\pagamento\pagamento\bin\Debug\pagamento.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\pagamento\pagamento\obj\Debug\pagamento.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\pagamento\pagamento\obj\Debug\pagamento.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\pagamento\pagamento\obj\Debug\pagamento.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\pagamento\pagamento\obj\Debug\pagamento.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\pagamento\pagamento\obj\Debug\pagamento.pdb

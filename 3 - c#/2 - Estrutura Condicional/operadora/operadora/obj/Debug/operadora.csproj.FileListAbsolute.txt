@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\operadora\operadora\obj\Debug\operadora.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\operadora\operadora\obj\Debug\operadora.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\operadora\operadora\obj\Debug\operadora.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\operadora\operadora\bin\Debug\operadora.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\operadora\operadora\bin\Debug\operadora.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\operadora\operadora\bin\Debug\operadora.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\operadora\operadora\obj\Debug\operadora.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\operadora\operadora\obj\Debug\operadora.pdb

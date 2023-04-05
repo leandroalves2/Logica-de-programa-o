@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\troco\troco\obj\Debug\troco.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\troco\troco\obj\Debug\troco.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\troco\troco\obj\Debug\troco.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\troco\troco\bin\Debug\troco.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\troco\troco\bin\Debug\troco.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\troco\troco\bin\Debug\troco.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\troco\troco\obj\Debug\troco.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\troco\troco\obj\Debug\troco.pdb

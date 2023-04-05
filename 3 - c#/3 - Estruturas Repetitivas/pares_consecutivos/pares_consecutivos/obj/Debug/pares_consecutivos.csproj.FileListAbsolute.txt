@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\pares_consecutivos\pares_consecutivos\obj\Debug\pares_consecutivos.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\pares_consecutivos\pares_consecutivos\obj\Debug\pares_consecutivos.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\pares_consecutivos\pares_consecutivos\obj\Debug\pares_consecutivos.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\pares_consecutivos\pares_consecutivos\bin\Debug\pares_consecutivos.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\pares_consecutivos\pares_consecutivos\bin\Debug\pares_consecutivos.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\pares_consecutivos\pares_consecutivos\bin\Debug\pares_consecutivos.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\pares_consecutivos\pares_consecutivos\obj\Debug\pares_consecutivos.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\pares_consecutivos\pares_consecutivos\obj\Debug\pares_consecutivos.pdb

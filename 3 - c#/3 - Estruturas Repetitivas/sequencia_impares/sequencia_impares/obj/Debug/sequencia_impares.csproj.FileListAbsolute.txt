@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\sequencia_impares\sequencia_impares\bin\Debug\sequencia_impares.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\sequencia_impares\sequencia_impares\bin\Debug\sequencia_impares.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\sequencia_impares\sequencia_impares\bin\Debug\sequencia_impares.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\sequencia_impares\sequencia_impares\obj\Debug\sequencia_impares.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\sequencia_impares\sequencia_impares\obj\Debug\sequencia_impares.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\sequencia_impares\sequencia_impares\obj\Debug\sequencia_impares.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\sequencia_impares\sequencia_impares\obj\Debug\sequencia_impares.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\sequencia_impares\sequencia_impares\obj\Debug\sequencia_impares.pdb

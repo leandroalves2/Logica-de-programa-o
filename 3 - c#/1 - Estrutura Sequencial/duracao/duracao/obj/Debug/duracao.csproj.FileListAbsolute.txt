@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\duracao\duracao\bin\Debug\duracao.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\duracao\duracao\bin\Debug\duracao.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\duracao\duracao\bin\Debug\duracao.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\duracao\duracao\obj\Debug\duracao.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\duracao\duracao\obj\Debug\duracao.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\duracao\duracao\obj\Debug\duracao.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\duracao\duracao\obj\Debug\duracao.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\1 - Estrutura Sequencial\duracao\duracao\obj\Debug\duracao.pdb

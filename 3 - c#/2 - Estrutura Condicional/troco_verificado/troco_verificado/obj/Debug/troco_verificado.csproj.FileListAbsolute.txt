@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\troco_verificado\troco_verificado\bin\Debug\troco_verificado.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\troco_verificado\troco_verificado\bin\Debug\troco_verificado.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\troco_verificado\troco_verificado\bin\Debug\troco_verificado.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\troco_verificado\troco_verificado\obj\Debug\troco_verificado.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\troco_verificado\troco_verificado\obj\Debug\troco_verificado.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\troco_verificado\troco_verificado\obj\Debug\troco_verificado.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\troco_verificado\troco_verificado\obj\Debug\troco_verificado.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\troco_verificado\troco_verificado\obj\Debug\troco_verificado.pdb

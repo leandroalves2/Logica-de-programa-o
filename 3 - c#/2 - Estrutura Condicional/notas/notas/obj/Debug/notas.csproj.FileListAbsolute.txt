@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\notas\notas\obj\Debug\notas.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\notas\notas\obj\Debug\notas.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\notas\notas\obj\Debug\notas.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\notas\notas\bin\Debug\notas.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\notas\notas\bin\Debug\notas.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\notas\notas\bin\Debug\notas.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\notas\notas\obj\Debug\notas.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\notas\notas\obj\Debug\notas.pdb

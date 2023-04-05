@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\coordenadas\coordenadas\bin\Debug\coordenadas.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\coordenadas\coordenadas\bin\Debug\coordenadas.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\coordenadas\coordenadas\bin\Debug\coordenadas.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\coordenadas\coordenadas\obj\Debug\coordenadas.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\coordenadas\coordenadas\obj\Debug\coordenadas.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\coordenadas\coordenadas\obj\Debug\coordenadas.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\coordenadas\coordenadas\obj\Debug\coordenadas.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\coordenadas\coordenadas\obj\Debug\coordenadas.pdb

@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\dardo\dardo\bin\Debug\dardo.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\dardo\dardo\bin\Debug\dardo.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\dardo\dardo\bin\Debug\dardo.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\dardo\dardo\obj\Debug\dardo.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\dardo\dardo\obj\Debug\dardo.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\dardo\dardo\obj\Debug\dardo.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\dardo\dardo\obj\Debug\dardo.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\dardo\dardo\obj\Debug\dardo.pdb

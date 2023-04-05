@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\posicao_par\posicao_par\obj\Debug\posicao_par.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\posicao_par\posicao_par\obj\Debug\posicao_par.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\posicao_par\posicao_par\obj\Debug\posicao_par.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\posicao_par\posicao_par\bin\Debug\posicao_par.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\posicao_par\posicao_par\bin\Debug\posicao_par.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\posicao_par\posicao_par\bin\Debug\posicao_par.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\posicao_par\posicao_par\obj\Debug\posicao_par.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\posicao_par\posicao_par\obj\Debug\posicao_par.pdb

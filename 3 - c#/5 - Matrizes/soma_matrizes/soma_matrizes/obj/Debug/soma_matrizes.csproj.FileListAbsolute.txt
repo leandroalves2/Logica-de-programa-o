@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_matrizes\soma_matrizes\obj\Debug\soma_matrizes.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_matrizes\soma_matrizes\obj\Debug\soma_matrizes.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_matrizes\soma_matrizes\obj\Debug\soma_matrizes.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_matrizes\soma_matrizes\bin\Debug\soma_matrizes.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_matrizes\soma_matrizes\bin\Debug\soma_matrizes.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_matrizes\soma_matrizes\bin\Debug\soma_matrizes.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_matrizes\soma_matrizes\obj\Debug\soma_matrizes.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\soma_matrizes\soma_matrizes\obj\Debug\soma_matrizes.pdb

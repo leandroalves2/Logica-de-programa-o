@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\maior_posicao\maior_posicao\obj\Debug\maior_posicao.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\maior_posicao\maior_posicao\obj\Debug\maior_posicao.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\maior_posicao\maior_posicao\obj\Debug\maior_posicao.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\maior_posicao\maior_posicao\bin\Debug\maior_posicao.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\maior_posicao\maior_posicao\bin\Debug\maior_posicao.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\maior_posicao\maior_posicao\bin\Debug\maior_posicao.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\maior_posicao\maior_posicao\obj\Debug\maior_posicao.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\maior_posicao\maior_posicao\obj\Debug\maior_posicao.pdb

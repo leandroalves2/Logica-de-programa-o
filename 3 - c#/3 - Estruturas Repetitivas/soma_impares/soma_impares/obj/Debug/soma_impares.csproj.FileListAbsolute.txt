@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_impares\soma_impares\obj\Debug\soma_impares.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_impares\soma_impares\obj\Debug\soma_impares.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_impares\soma_impares\obj\Debug\soma_impares.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_impares\soma_impares\bin\Debug\soma_impares.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_impares\soma_impares\bin\Debug\soma_impares.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_impares\soma_impares\bin\Debug\soma_impares.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_impares\soma_impares\obj\Debug\soma_impares.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_impares\soma_impares\obj\Debug\soma_impares.pdb

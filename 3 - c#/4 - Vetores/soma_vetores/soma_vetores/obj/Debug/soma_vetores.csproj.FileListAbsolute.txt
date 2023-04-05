@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_vetores\soma_vetores\bin\Debug\soma_vetores.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_vetores\soma_vetores\bin\Debug\soma_vetores.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_vetores\soma_vetores\bin\Debug\soma_vetores.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_vetores\soma_vetores\obj\Debug\soma_vetores.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_vetores\soma_vetores\obj\Debug\soma_vetores.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_vetores\soma_vetores\obj\Debug\soma_vetores.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_vetores\soma_vetores\obj\Debug\soma_vetores.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\soma_vetores\soma_vetores\obj\Debug\soma_vetores.pdb

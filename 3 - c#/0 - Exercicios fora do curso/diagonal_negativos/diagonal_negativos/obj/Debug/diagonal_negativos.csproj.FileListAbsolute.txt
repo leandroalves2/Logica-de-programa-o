@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\diagonal_negativos\diagonal_negativos\bin\Debug\diagonal_negativos.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\diagonal_negativos\diagonal_negativos\bin\Debug\diagonal_negativos.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\diagonal_negativos\diagonal_negativos\bin\Debug\diagonal_negativos.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.pdb

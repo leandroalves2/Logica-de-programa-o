@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\covid dudu\covid dudu\bin\Debug\covid dudu.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\covid dudu\covid dudu\bin\Debug\covid dudu.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\covid dudu\covid dudu\bin\Debug\covid dudu.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\covid dudu\covid dudu\obj\Debug\covid dudu.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\covid dudu\covid dudu\obj\Debug\covid dudu.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\covid dudu\covid dudu\obj\Debug\covid dudu.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\covid dudu\covid dudu\obj\Debug\covid dudu.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\0 - Exercicios fora do curso\covid dudu\covid dudu\obj\Debug\covid dudu.pdb

@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\mais_velho\mais_velho\obj\Debug\mais_velho.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\mais_velho\mais_velho\obj\Debug\mais_velho.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\mais_velho\mais_velho\obj\Debug\mais_velho.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\mais_velho\mais_velho\bin\Debug\mais_velho.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\mais_velho\mais_velho\bin\Debug\mais_velho.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\mais_velho\mais_velho\bin\Debug\mais_velho.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\mais_velho\mais_velho\obj\Debug\mais_velho.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\mais_velho\mais_velho\obj\Debug\mais_velho.pdb

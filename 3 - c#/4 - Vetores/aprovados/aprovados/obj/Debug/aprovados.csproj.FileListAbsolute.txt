@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\aprovados\aprovados\bin\Debug\aprovados.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\aprovados\aprovados\bin\Debug\aprovados.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\aprovados\aprovados\bin\Debug\aprovados.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\aprovados\aprovados\obj\Debug\aprovados.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\aprovados\aprovados\obj\Debug\aprovados.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\aprovados\aprovados\obj\Debug\aprovados.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\aprovados\aprovados\obj\Debug\aprovados.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\aprovados\aprovados\obj\Debug\aprovados.pdb

@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\lanchonete\lanchonete\obj\Debug\lanchonete.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\lanchonete\lanchonete\obj\Debug\lanchonete.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\lanchonete\lanchonete\obj\Debug\lanchonete.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\lanchonete\lanchonete\bin\Debug\lanchonete.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\lanchonete\lanchonete\bin\Debug\lanchonete.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\lanchonete\lanchonete\bin\Debug\lanchonete.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\lanchonete\lanchonete\obj\Debug\lanchonete.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\lanchonete\lanchonete\obj\Debug\lanchonete.pdb

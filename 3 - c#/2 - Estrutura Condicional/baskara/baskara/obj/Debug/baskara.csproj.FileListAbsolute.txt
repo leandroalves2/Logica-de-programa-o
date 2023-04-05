@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\baskara\baskara\obj\Debug\baskara.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\baskara\baskara\obj\Debug\baskara.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\baskara\baskara\obj\Debug\baskara.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\baskara\baskara\bin\Debug\baskara.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\baskara\baskara\bin\Debug\baskara.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\baskara\baskara\bin\Debug\baskara.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\baskara\baskara\obj\Debug\baskara.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\baskara\baskara\obj\Debug\baskara.pdb

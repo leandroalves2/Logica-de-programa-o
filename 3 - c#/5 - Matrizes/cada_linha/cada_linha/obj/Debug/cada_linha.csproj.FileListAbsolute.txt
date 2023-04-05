@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\cada_linha\cada_linha\bin\Debug\cada_linha.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\cada_linha\cada_linha\bin\Debug\cada_linha.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\cada_linha\cada_linha\bin\Debug\cada_linha.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\cada_linha\cada_linha\obj\Debug\cada_linha.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\cada_linha\cada_linha\obj\Debug\cada_linha.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\cada_linha\cada_linha\obj\Debug\cada_linha.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\cada_linha\cada_linha\obj\Debug\cada_linha.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\5 - Matrizes\cada_linha\cada_linha\obj\Debug\cada_linha.pdb

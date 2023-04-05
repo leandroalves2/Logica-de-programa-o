@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\temperatura\temperatura\obj\Debug\temperatura.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\temperatura\temperatura\obj\Debug\temperatura.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\temperatura\temperatura\obj\Debug\temperatura.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\temperatura\temperatura\bin\Debug\temperatura.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\temperatura\temperatura\bin\Debug\temperatura.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\temperatura\temperatura\bin\Debug\temperatura.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\temperatura\temperatura\obj\Debug\temperatura.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\temperatura\temperatura\obj\Debug\temperatura.pdb

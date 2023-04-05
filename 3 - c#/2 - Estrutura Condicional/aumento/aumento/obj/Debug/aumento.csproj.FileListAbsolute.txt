@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\aumento\aumento\bin\Debug\aumento.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\aumento\aumento\bin\Debug\aumento.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\aumento\aumento\bin\Debug\aumento.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\aumento\aumento\obj\Debug\aumento.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\aumento\aumento\obj\Debug\aumento.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\aumento\aumento\obj\Debug\aumento.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\aumento\aumento\obj\Debug\aumento.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\aumento\aumento\obj\Debug\aumento.pdb

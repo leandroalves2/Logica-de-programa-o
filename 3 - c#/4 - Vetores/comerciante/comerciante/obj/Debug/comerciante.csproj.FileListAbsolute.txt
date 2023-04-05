@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\comerciante\comerciante\bin\Debug\comerciante.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\comerciante\comerciante\bin\Debug\comerciante.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\comerciante\comerciante\bin\Debug\comerciante.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\comerciante\comerciante\obj\Debug\comerciante.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\comerciante\comerciante\obj\Debug\comerciante.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\comerciante\comerciante\obj\Debug\comerciante.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\comerciante\comerciante\obj\Debug\comerciante.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\comerciante\comerciante\obj\Debug\comerciante.pdb

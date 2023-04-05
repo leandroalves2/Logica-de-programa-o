@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.pdb

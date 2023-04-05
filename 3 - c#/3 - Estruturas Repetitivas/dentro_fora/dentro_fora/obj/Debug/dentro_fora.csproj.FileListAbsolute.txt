@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\dentro_fora\dentro_fora\bin\Debug\dentro_fora.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\dentro_fora\dentro_fora\bin\Debug\dentro_fora.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\dentro_fora\dentro_fora\bin\Debug\dentro_fora.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\dentro_fora\dentro_fora\obj\Debug\dentro_fora.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\dentro_fora\dentro_fora\obj\Debug\dentro_fora.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\dentro_fora\dentro_fora\obj\Debug\dentro_fora.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\dentro_fora\dentro_fora\obj\Debug\dentro_fora.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\dentro_fora\dentro_fora\obj\Debug\dentro_fora.pdb

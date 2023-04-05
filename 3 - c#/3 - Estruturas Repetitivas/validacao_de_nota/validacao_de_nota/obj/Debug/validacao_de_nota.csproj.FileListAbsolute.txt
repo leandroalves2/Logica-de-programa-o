@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\validacao_de_nota\validacao_de_nota\obj\Debug\validacao_de_nota.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\validacao_de_nota\validacao_de_nota\obj\Debug\validacao_de_nota.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\validacao_de_nota\validacao_de_nota\obj\Debug\validacao_de_nota.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\validacao_de_nota\validacao_de_nota\bin\Debug\validacao_de_nota.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\validacao_de_nota\validacao_de_nota\bin\Debug\validacao_de_nota.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\validacao_de_nota\validacao_de_nota\bin\Debug\validacao_de_nota.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\validacao_de_nota\validacao_de_nota\obj\Debug\validacao_de_nota.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\validacao_de_nota\validacao_de_nota\obj\Debug\validacao_de_nota.pdb

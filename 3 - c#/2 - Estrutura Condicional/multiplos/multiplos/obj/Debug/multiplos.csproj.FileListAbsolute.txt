@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\multiplos\multiplos\bin\Debug\multiplos.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\multiplos\multiplos\bin\Debug\multiplos.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\multiplos\multiplos\bin\Debug\multiplos.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\multiplos\multiplos\obj\Debug\multiplos.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\multiplos\multiplos\obj\Debug\multiplos.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\multiplos\multiplos\obj\Debug\multiplos.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\multiplos\multiplos\obj\Debug\multiplos.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\multiplos\multiplos\obj\Debug\multiplos.pdb

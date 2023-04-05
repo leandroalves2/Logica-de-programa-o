@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\dados_pessoas\dados_pessoas\obj\Debug\dados_pessoas.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\dados_pessoas\dados_pessoas\obj\Debug\dados_pessoas.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\dados_pessoas\dados_pessoas\obj\Debug\dados_pessoas.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\dados_pessoas\dados_pessoas\bin\Debug\dados_pessoas.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\dados_pessoas\dados_pessoas\bin\Debug\dados_pessoas.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\dados_pessoas\dados_pessoas\bin\Debug\dados_pessoas.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\dados_pessoas\dados_pessoas\obj\Debug\dados_pessoas.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\4 - Vetores\dados_pessoas\dados_pessoas\obj\Debug\dados_pessoas.pdb

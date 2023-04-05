@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\glicose\glicose\obj\Debug\glicose.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\glicose\glicose\obj\Debug\glicose.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\glicose\glicose\obj\Debug\glicose.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\glicose\glicose\bin\Debug\glicose.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\glicose\glicose\bin\Debug\glicose.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\glicose\glicose\bin\Debug\glicose.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\glicose\glicose\obj\Debug\glicose.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\2 - Estrutura Condicional\glicose\glicose\obj\Debug\glicose.pdb

@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_ponderada\media_ponderada\bin\Debug\media_ponderada.exe.config
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_ponderada\media_ponderada\bin\Debug\media_ponderada.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_ponderada\media_ponderada\bin\Debug\media_ponderada.pdb
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_ponderada\media_ponderada\obj\Debug\media_ponderada.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_ponderada\media_ponderada\obj\Debug\media_ponderada.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_ponderada\media_ponderada\obj\Debug\media_ponderada.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_ponderada\media_ponderada\obj\Debug\media_ponderada.exe
+D:\Documentos\Estudos\Logica de programação\5 - c#\3 - Estruturas Repetitivas\media_ponderada\media_ponderada\obj\Debug\media_ponderada.pdb
